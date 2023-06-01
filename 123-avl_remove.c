@@ -1,5 +1,6 @@
 #include "binary_trees.h"
 
+
 avl_t *avl_remove(avl_t *root, int value);
 bst_t *bst_remove(bst_t *root, int value);
 int remove_type(bst_t *root);
